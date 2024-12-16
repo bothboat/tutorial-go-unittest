@@ -1,5 +1,5 @@
 # Golang Unit Test Tutorial
-ศึกษาจาก Codebangkok -> ##[Reference](https://www.youtube.com/watch?v=Wd3O6GcA20w)
+ศึกษาจาก Codebangkok -> [Reference](https://www.youtube.com/watch?v=Wd3O6GcA20w)
 
 ## คำสั่งเบื้องต้น
 เข้าไปข้างใน Folder => `go test -v`
