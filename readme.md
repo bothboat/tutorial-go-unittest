@@ -1,4 +1,5 @@
 # Golang Unit Test Tutorial
+เรียนรู้การทำ unit test, integration test
 ศึกษาจาก Codebangkok -> [Reference](https://www.youtube.com/watch?v=Wd3O6GcA20w)
 
 ## คำสั่งเบื้องต้น
